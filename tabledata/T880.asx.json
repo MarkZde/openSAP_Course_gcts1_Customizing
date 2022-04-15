@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"SZZ",
+    "NAME1":"SZZ Company",
+    "CNTRY":"DE",
+    "NAME2":"",
+    "LANGU":"E",
+    "STRET":"Fake Street",
+    "POBOX":"",
+    "PSTLC":"00000",
+    "CITY":"Fake City",
+    "CURR":"",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
